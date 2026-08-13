@@ -1,0 +1,15 @@
+# Python environment artifacts
+.venv/
+__pycache__/
+*.pyc
+
+# Local secure environment variable records
+.env
+
+# Containerized database storage directories
+pgdata/
+.docker_config/
+
+# Main operating system clutter files
+.DS_Store
+Thumbs.db
